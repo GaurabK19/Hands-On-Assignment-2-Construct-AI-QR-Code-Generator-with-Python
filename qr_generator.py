@@ -1,17 +1,3 @@
-"""
-qr_generator.py
-
-Generates a QR code image from a user-provided URL.
-The QR code is displayed using PIL (Pillow) and saved as a PNG file.
-
-Assignment: Biox Systems - QR Code Generator
-            University of the Cumberlands
-Author:     Gaurab
-
-Dependencies:
-    pip install qrcode[pil]
-"""
-
 import qrcode
 from PIL import Image
 
